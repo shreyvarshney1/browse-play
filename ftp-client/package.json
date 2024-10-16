@@ -1,0 +1,28 @@
+{
+  "name": "ftp-client",
+  "version": "1.0.0",
+  "description": "FTP Client for browsing directories and playing videos",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "keywords": [
+    "ftp",
+    "client",
+    "video",
+    "player"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shreyvarshney1/ftp-client.git"
+  }
+}
